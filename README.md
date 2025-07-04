@@ -1,2 +1,2 @@
 # IotShield Website
-Creating an introductory website for IotShield, a platform that protects IoT devices from cyber threats.
+Creating an introductory website for IoTShield, a platform that protects IoT devices from cyber threats.
